@@ -1,0 +1,39 @@
+.inputdiv{
+    margin-top: 50px;
+}
+.inputtodo{
+    width:250px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    border:0;
+    padding-left:10px
+}
+.todobtn{
+    font-size: 25px;
+    margin-left:10px;
+    border-radius: 10px;
+    background-color: gray;
+    border:0;
+    cursor: pointer;
+}
+.todoitems{
+    
+    width:300px;
+    margin: auto;
+    background-color: orangered;
+    color:black;
+    margin-top: 20px;
+}
+/* .checkmark{
+    position: absolute;
+    top: 0;
+    left:0;
+    height:25px;
+    width:25px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+} */
