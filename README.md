@@ -3,6 +3,15 @@
 The whole Assignment Based on a new Javascript library called React.You have to create-react-app to do these assignment.Otherwise use vite app .
 You alse do it by using codesandbox.
 
+# Steps For vite 
+ 1. npm create vite
+ 2. project name........>
+ 3. pakage name ........>
+ 4. select option for react 2 times.
+ 5. path change using cd <file name>
+ 6. npm i
+ 7. npm run dev
+ 
 # Available Scripts
 In the project directory, you can run:
 
