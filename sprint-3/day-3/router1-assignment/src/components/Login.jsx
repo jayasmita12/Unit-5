@@ -5,31 +5,33 @@ import { useState } from 'react';
 import { useNavigate } from "react-router-dom"
 import { AuthContext } from '../contexts/AuthContext'
 import { useContext } from 'react'
-// import { Home } from './Home';
-// import { useParams } from 'react-router-dom';
 
-// const Getuserdetails = async(token,id) =>{
-// const {id}=useParams();
-//   console.log(token,id)
-//   try{
-//     let res= await fetch(`https://reqres.in/api/users/${id}`,{
-//         headers:{
-//             "Content-Type":"application/json",
-//             "Authorization":`Bearer ${token}`
-//         },
-//     });
+ export const Getuser = async (token,id) => {
+  console.log(token, id)
+  try {
+    let res = await fetch(`https://reqres.in/api/users/${id}`, {
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${token}`
+      },
+    });
 
-//     let data = await res.json()
+    let data = await res.json()
 
-//    console.log("data:",data.data)
-//    let user = data.data
+  
+    let user = data.data
 
+    console.log(user)
+    return (
+      <div>
 
-// }
-// catch(err){
-//     console.log(err)
-// }
-//}
+      </div>
+    )
+  }
+  catch (err) {
+    console.log(err)
+  }
+}
 
 export const Login = () => {
   const { Loggingin } = useContext(AuthContext)
@@ -47,32 +49,7 @@ export const Login = () => {
   }
 
 
-  const Getuser = async (token,id) => {
-    console.log(token, id)
-    try {
-      let res = await fetch(`https://reqres.in/api/users/${id}`, {
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`
-        },
-      });
-
-      let data = await res.json()
-
-    
-      let user = data.data
-
-      console.log(user)
-      return (
-        <div>
-
-        </div>
-      )
-    }
-    catch (err) {
-      console.log(err)
-    }
-  }
+ 
 
 
   return (

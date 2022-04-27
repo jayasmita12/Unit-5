@@ -1,0 +1,176 @@
+{
+    "books":[
+        {
+            "section": "history",
+            "title":"Sapiens",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41yu2qXhXXL._SX324_BO1,204,203,200_.jpg",
+            "description":"A Brief History of Humankind  by Yuval Noah Harari",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Yuval Noah Harari",
+            "price": 100,
+            "isbnNumber": 1234,
+            "id":1
+         },
+         {
+            "section": "history",
+            "title":"Lessons for the 21st Century",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41SxL78DpvL._SX324_BO1,204,203,200_.jpg",
+            "description":"In twenty-one bite-sized lessons, Yuval Noah Harari explores what it means to be human in an age of bewilderment.            ",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Yuval Noah Harari",
+            "price": 120,
+            "isbnNumber": 1234090,
+            "id":2
+         },
+         {
+            "section": "history",
+            "title":"The Story Of My Experiments With Truth",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51AK5koOQ5L._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"A Brief History of Humankind  by Yuval Noah Harari",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Mahatma Gandhi",
+            "price": 190,
+            "isbnNumber": 1234,
+            "id":3
+         },
+         {
+            "section": "Atharva",
+            "title":"Book Name",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/41kXroIhs-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"”Atharva The Origin” is a new age graphic novel project by Virzu Studios featuring MS Dhoni as the superhero character.",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":" Ramesh Thamilmani",
+            "price": 234,
+            "isbnNumber": 304567,
+            "id":4
+         },
+         {
+            "section": "mythology",
+            "title":"Mahayoddha Kalki",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41x6za+sWYL._SX258_BO1,204,203,200_.jpg",
+            "description":"Kalki Hari arrives at Indragarh to find out that his brother has been taken prisoner, his beloved is about to be butchered, and the city is embroiled in a ghastly war with the Naga queen and Dakshini king.",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Kevin Missal ",
+            "price": 124,
+            "isbnNumber": 12340567,
+            "id":5
+         },
+         {
+            "section": "mythology",
+            "title":"Karna",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51SmrAZSiVL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"Unwanted by his mother, snubbed by his blood-brothers and ridiculed by all, this is the story of the unsung hero of the Mahabharata.",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Rik Hoksin",
+            "price": 124,
+            "isbnNumber": 121234567,
+            "id":6
+         },
+         {
+            "section": "mythology",
+            "title":"Karna",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51SmrAZSiVL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"Unwanted by his mother, snubbed by his blood-brothers and ridiculed by all, this is the story of the unsung hero of the Mahabharata.",
+            "reviews":[
+                "good","bad","poor"
+            ],
+            "author":"Rik Hoksin",
+            "price": 124,
+            "isbnNumber": 121234567,
+            "id":17
+         },
+         {
+            "section": "technology",
+            "title":"Nano Science and Technology",
+            "imageUrl":"https://m.media-amazon.com/images/I/41WPPyBXpRL._AC_UY218_.jpg",
+            "description":"Nanoscience and technology is a rapidly developing area of research in physics, chemistry, and materials.",
+            "reviews":[
+            "bad","good"
+            ], 
+            "author":"Don Bosco sinha",
+            "price": 234,
+            "isbnNumber": 1234567,
+            "id":7
+         },
+         {
+            "section": "technology",
+            "title":"Science and Technology",
+            "imageUrl":"https://m.media-amazon.com/images/I/41vYUYDO1hL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+            "description":"Nanoscience and technology is a rapidly developing area of research in physics, chemistry, and materials.",
+            "reviews":[
+            "bad","good"
+            ], 
+            "author":"Don Bosco sinha",
+            "price": 134,
+            "isbnNumber": 1234567,
+            "id":8
+         },
+         {
+            "section": "technology",
+            "title":"The Politics and Technology",
+            "imageUrl":"https://m.media-amazon.com/images/I/41VFo9y-WdL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+            "description":"Nanoscience and technology is a rapidly developing area of research in physics, chemistry, and materials.",
+            "reviews":[
+            "bad","good"
+            ], 
+            "author":"Bosco sinha",
+            "price": 24,
+            "isbnNumber": 1234567,
+            "id":9
+         },
+      
+        
+         {
+            "section": "mystery",
+            "title":"The Silent Patient",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51OuP0mmnwL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"The record-breaking, multimillion copy Sunday Times bestselling thriller and Richard & Judy book club pick",
+            "reviews":[
+                "Must read","good"
+            ],
+            "author":"Alex",
+            "price": 984,
+           
+            "isbnNumber": 1234567,
+            "id":10
+         },
+         {
+            "title":"The Guest List",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41jOwru1qML._SX323_BO1,204,203,200_.jpg",
+            "description":"From the author of The Hunting Party, the No.1 Sunday Times bestseller and prize winning mystery thriller in 2021 Paperback",
+            "reviews":[
+                "Must read","good"
+            ],
+            "author":"Lima Noua",
+            "price": 114,
+            "section": "mystery",
+            "isbnNumber": 1234567,
+            "id":11
+         },
+         {
+            "title":"Written in the Stars",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41MV32mYXJL._SX323_BO1,204,203,200_.jpg",
+            "description":"Book desc",
+            "reviews":[
+                "Life is a collection of moments, some memorable and some mundane. Often it is the tiniest things that bring the greatest joy, even through at that time, we have no idea that what we are witnessing may be magical, something that we will talk about and laugh over after many years."
+            ],
+            "author":"Manin",
+            "price": 1234,
+            "section": "mystery",
+            "isbnNumber": 1234567,
+            "id":12
+         }
+    ]
+}
